@@ -1,0 +1,42 @@
+#navbar{
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+}
+#first{
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+
+}
+.first-img{
+   
+    margin-top: 20px;
+}
+.wave-img{
+    width: 100%;
+}
+#xc{
+    margin-top:150px ;
+}
+#mic-img{
+    width: 20%;;
+}
+#sp{
+    margin: 50px;
+}
+.card {
+    max-width: 300px; 
+    margin: auto; 
+    padding: 10px;
+    font-size: 14px;
+}
+
+.card img {
+    height: 150px; 
+    
+}
+
+.card-body {
+    padding: 10px; 
+}
+.last{
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+
+}
